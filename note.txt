@@ -35,7 +35,7 @@ HTML Tags:
    <li>Rocky</li>  </ol>        =      Lists can also be ordered using the <ol> tag. Again, list items are specified using the <li> tag.
 
 - A <div> tag defines a content division in a HTML document. It acts as a generic container and has no effect on the content unless it is styled by CSS.
-
+- <a href=" about.html"></a>       =      Anchor tags: how to hyperlink
 
 
 

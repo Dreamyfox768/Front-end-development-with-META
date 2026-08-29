@@ -60,7 +60,24 @@ HTML Tags:
 
     </table>        =        Table , table row, and table data with the table
 
-  
+  -         <form action="https://www.google.com/search" method="get">
+        <label for="search">Search:</label>
+
+        <input type="text" id="search" name="q">
+
+    </form>
+    <form>
+        <input type="submit" value="Search">
+
+        <input type="reset" value="Reset">
+
+        <input type="checkbox" id="checkbox" name="checkbox">
+        <label for="checkbox">Check me out</label>
+        <input type="number"  name="age">
+        <input type="email"  name="email">
+        <input type="file"  name="file">
+
+    </form>.      check box, submit, reset, box , number, email, file 
   
 
 

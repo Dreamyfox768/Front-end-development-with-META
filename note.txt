@@ -37,7 +37,7 @@ HTML Tags:
 - A <div> tag defines a content division in a HTML document. It acts as a generic container and has no effect on the content unless it is styled by CSS.
 - <a href=" about.html"></a>       =      Anchor tags: how to hyperlink
 
-- <img src = "cat.gif" >     =      adding image into html
+- <img src = "cat.gif" alt = "cat" >     =      adding image into html
 
   
   

@@ -1,2 +1,51 @@
  Integrated Development Environment (IDE) 
 Using VS Code
+HTML Tags: 
+- <h1>Heading 1</h1>   =   Headings allow you to display titles and subtitles on your webpage.
+- <p>
+   This paragraph
+</p>  =   Paragraphs contain text content.
+- <p>
+   This paragraph<br>
+   contain </p>    =  line break 
+
+- <p>
+   No matter how much the dog barks: <strong>don't feed him chocolate</strong>.
+</p>    =   trong tags can be used to indicate that a range of text has importance. 
+
+- <p>
+   The primary colors are <b>red</b>, <b>yellow</b> and <b>blue</b>.
+</p>      =   Bold tags can be used to draw the reader's attention to a range of text.
+
+- <p>
+   Wake up <em>now</em>!
+</p>     =   Emphasis tags can be used to add emphasis to text.
+
+- <p>
+   The term <i>HTML</i> stands for HyperText Markup Language.
+</p>      =     Italics tags can be used to offset a range of text.
+
+- <ul>
+   <li>Tea</li>
+   <li>Sugar</li>
+   <li>Milk</li>
+</ul>        =     Lists can be unordered using the <ul> tag. List items are specified using the <li> tag, for example:
+
+- <ol>
+   <li>Rocky</li>  </ol>        =      Lists can also be ordered using the <ol> tag. Again, list items are specified using the <li> tag.
+
+- A <div> tag defines a content division in a HTML document. It acts as a generic container and has no effect on the content unless it is styled by CSS.
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+

@@ -39,6 +39,27 @@ HTML Tags:
 
 - <img src = "cat.gif" alt = "cat" >     =      adding image into html
 
+-    <table> 
+        <tr>
+            <td>
+                row 1 
+            </td>
+            <td> 
+                I guess
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+               row 2
+            </td>
+            <td> 
+                I think 
+            </td>
+        </tr>
+
+    </table>        =        Table , table row, and table data with the table
+
   
   
 

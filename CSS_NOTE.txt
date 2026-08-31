@@ -5,7 +5,19 @@ Selector can be the id and this info will get prioritized over the body selector
 Box model:
 
 
-content: 
+content: content size 
+
+width
+min-width
+max-width
+
+height 
+min-height
+max-height
+
+
+
 padding:
 border: 
 margin: 
+

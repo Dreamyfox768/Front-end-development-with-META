@@ -1,1 +1,36 @@
+body { /* selector and open and close brackets */
+    background: linear-gradient(black, black,  #00e1ff ); /* background color in gradient */
+}
 
+#welcome { /* selector can be the id and this info will get prioritized over the body selector due to specifity*/
+    color: #00e1ff; /* text color */
+    text-shadow:  
+        0 0 5px #00e1ff,
+        0 0 10px #00e1ff,
+        0 0 20px #00e1ff;
+}
+
+#About {
+    color: #d61cda; 
+    text-shadow:
+        0 0 5px #d61cda,
+        0 0 10px #d61cda,
+        0 0 20px #d61cda;
+}
+
+
+button:hover {
+    background-color: #00e1ff;
+    color: black;
+    border: 2px solid #00e1ff;
+}
+
+p{
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline greenyellow;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+
+}

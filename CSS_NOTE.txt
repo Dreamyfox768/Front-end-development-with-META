@@ -25,6 +25,11 @@ padding-right:
 padding-left:
 
 
+block vs inline:
+block is new line 
+inline is back to back
+
+
 
 border: 
 

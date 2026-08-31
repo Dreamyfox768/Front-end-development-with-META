@@ -1,1 +1,6 @@
+body { /* selector and open and close brackets */
+    background: linear-gradient(black, black,  #00e1ff ); /* background color in gradient */
+}
 
+#welcome { /* selector can be the id and this info will get prioritized over the body selector due to specifity*/
+    color: #00e1ff; /* text color */

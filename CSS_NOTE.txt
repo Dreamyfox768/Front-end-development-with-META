@@ -18,6 +18,30 @@ max-height
 
 
 padding:
+
+padding-top: 4px;
+padding-bottom:
+padding-right:
+padding-left:
+
+
+
 border: 
+
+solid
+dashed
+dotted
+double
+
+border-width: thin; 
+border-width: medium; 
+border-width: thick; 
+
+
 margin: 
+
+margin-top: 4px;
+margin-bottom:
+margin-right:
+margin-left:
 

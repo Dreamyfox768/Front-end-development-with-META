@@ -5,3 +5,5 @@ bundler: bundles dependencies together. Gulp Webpack
 Responsive Design: it is to make sure if website visited by smaller screen or different pixel it shows correctly.
 
 flexible grids, ​fluid images and media queries. ​Firstly, flexible grids are made up of columns, gutters and margins. ​The space between the columns is called the gutter and the spaces between ​the content and the left and right edges of the screen are called margins. 
+
+In responsive design, ​the pixel value specified is often referred to as the breakpoint. ​A breakpoint is the point at which a website's content and ​layout will adapt to provide the best possible user experience. ​A Breakpoint can function in different ways across three different grids ​a fixed grid fluid or for with grids and lastly, hybrid grids.

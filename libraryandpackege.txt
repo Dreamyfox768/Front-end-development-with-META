@@ -1,3 +1,7 @@
 Bootstrap library used for UI. It also provides JS library that allows enhanced functionality like drop-downs and tooltips.
 Package managers; downloads and install dependencies. NPM
 bundler: bundles dependencies together. Gulp Webpack
+
+Responsive Design: it is to make sure if website visited by smaller screen or different pixel it shows correctly.
+
+flexible grids, ​fluid images and media queries. ​Firstly, flexible grids are made up of columns, gutters and margins. ​The space between the columns is called the gutter and the spaces between ​the content and the left and right edges of the screen are called margins. 

@@ -1,0 +1,3 @@
+Bootstrap library used for UI. It also provides JS library that allows enhanced functionality like drop-downs and tooltips.
+Package managers; downloads and install dependencies. NPM
+bundler: bundles dependencies together. Gulp Webpack

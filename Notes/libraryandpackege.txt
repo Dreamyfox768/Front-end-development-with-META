@@ -19,4 +19,4 @@ fluid the grids adapt.
 hybrid can do both. 
 
 
-bootstrap: has responsive grid system and it safe time because it has classes to use style and layout. 
+bootstrap: has responsive grid system and it safe time because it has classes to use style and layout. pre-written code chuncks in css and JS to build webstie quickly. 
